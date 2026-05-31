@@ -144,11 +144,20 @@ E-Commerce-Sales-Analytics/
 │   └── sales_analysis_queries.sql
 │
 ├── Dashboard/
-│   ├── dashboard.png
-│   └── tableau_dashboard.twb
+│   ├── Dashboard.PNG
+│   ├── CategorySales.PNG
+│   ├── RegionProfit.PNG
+│   ├── MonthlySalesTrend.PNG
+│   ├── TOP-10ProductSales.PNG
+│   └── Tableau_Dashboard.twb
 │
 ├── Screenshots/
-│   └── query_results.png
+│   ├── TotalProfit.PNG
+│   ├── TotalSales.PNG
+│   ├── Monthly_Sales_Trend.PNG
+│   ├── Region_Wise_Profit.PNG
+│   ├── Top_Selling_Products.PNG
+│   └── Category_Wises_Sales.PNG
 │
 └── README.md
 ```
