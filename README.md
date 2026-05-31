@@ -114,11 +114,18 @@ Dashboard screenshot:
 
 Query Screenshots:
 
+Category_Wises_Sales:
 ![Screenshot](Screenshots/Category_Wises_Sales.PNG)
+TotalSales:
 ![Screenshot](Screenshots/TotalSales.PNG)
+TotalProfit:
 ![Screenshot](Screenshots/TotalProfit.PNG)
-![Screenshot](Dashboard/RegionProfit.PNG)
-![Screenshot](Dashboard/TOP-10ProductSales.PNG)
+Monthly_Sales_Trend:
+![Screenshot](Screenshots/Monthly_Sales_Trend.PNG)
+Region_Wise_Profit:
+![Screenshot](Screenshots/Region_Wise_Profit.PNG)
+Top_Selling_Products:
+![Screenshot](Screenshots/Top_Selling_Products.PNG)
 
 ---
 
