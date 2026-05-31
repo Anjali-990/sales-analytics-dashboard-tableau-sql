@@ -94,7 +94,7 @@ The repository contains a separate SQL file with all analysis queries, including
 
 Dashboard screenshot:
 
-![Dashboard Screenshot](Dashboard/Dashboard.png)
+![Dashboard Screenshot](Dashboard/Dashboard.PNG)
 
 ---
 
