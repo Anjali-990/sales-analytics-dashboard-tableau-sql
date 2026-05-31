@@ -112,20 +112,23 @@ Dashboard screenshot:
 
 ## Query Preview
 
-Query Screenshots:
+### Category Wise Sales
+![Category Wise Sales](Screenshots/Category_Wises_Sales.PNG)
 
-Category_Wises_Sales:
-![Screenshot](Screenshots/Category_Wises_Sales.PNG)
-TotalSales:
-![Screenshot](Screenshots/TotalSales.PNG)
-TotalProfit:
-![Screenshot](Screenshots/TotalProfit.PNG)
-Monthly_Sales_Trend:
-![Screenshot](Screenshots/Monthly_Sales_Trend.PNG)
-Region_Wise_Profit:
-![Screenshot](Screenshots/Region_Wise_Profit.PNG)
-Top_Selling_Products:
-![Screenshot](Screenshots/Top_Selling_Products.PNG)
+### Total Sales
+![Total Sales](Screenshots/TotalSales.PNG)
+
+### Total Profit
+![Total Profit](Screenshots/TotalProfit.PNG)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](Screenshots/Monthly_Sales_Trend.PNG)
+
+### Region Wise Profit
+![Region Wise Profit](Screenshots/Region_Wise_Profit.PNG)
+
+### Top Selling Products
+![Top Selling Products](Screenshots/Top_Selling_Products.PNG)
 
 ---
 
