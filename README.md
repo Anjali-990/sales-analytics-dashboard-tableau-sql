@@ -45,6 +45,7 @@ Connected the dataset to Tableau and created an interactive dashboard featuring:
   - Total Profit
   - Total Orders
   - Average Discount
+  - Profit Margin
 
 - Visualizations
   - Monthly Sales Trend
@@ -56,20 +57,33 @@ Connected the dataset to Tableau and created an interactive dashboard featuring:
   - Order Date
   - Region
   - Sub-Category
+  - Dynamic Top N products Filter
+  - Drill-down Analysis
+  - Interative Actions
 
-### 4. Business Insights
+### 4. Business Insights And Recommentions
 Generated insights to support data-driven decision making.
+And, Recommendations to support decision-making and improve sales performance.
 
 ---
 
-## Key Insights
+## Key Insights And Recommendations
 
-- North region generated the highest profit.
-- Accessories category recorded the highest sales.
-- Average discount across orders was approximately 10%.
-- Sales peaked during mid-2025.
-- Headphones were the highest-selling products.
-- Mobile and Women's Wear generated comparatively lower sales.
+- North Region Outperforms: North region generated the highest profit. 
+- Recommendation: Increase marketing spend and inventory allocation here to maximize gains.
+
+- Category Highlights: Accessories recorded highest sales, while Electronics/Furniture drive steady volume. 
+- Recommendation: Bundle slow-moving items with high-margin Accessories.
+
+- Pricing & Discounts: Average discount across orders was 10.05% with a healthy 14.94% overall profit margin. 
+- Recommendation: Maintain a strict 10% discount cap on high-demand categories.
+
+- Product Performance: Headphones Accusantium was the highest-selling product (~857K sales). 
+- Recommendation: Optimize supply chain for top 5 products to prevent stockouts.
+
+- Underperforming Segments: Mobile and Women's Wear generated comparatively lower sales. 
+- Recommendation: Run targeted promotional campaigns or seasonal discounts to revive demand.
+
 
 ---
 
