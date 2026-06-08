@@ -170,11 +170,15 @@ E-Commerce-Sales-Analytics/
 
 ✔ Created interactive Tableau dashboard
 
-✔ Built KPI cards for Sales, Profit, Orders, and Discounts
+✔ Built KPI cards for Sales, Profit, Orders,Profit Margin and Discounts
 
-✔ Performed Top Product, Category, and Regional Analysis
+✔ Performed Top Product, Category,Monthly trend and Regional Analysis
 
-✔ Added interactive filters for dynamic exploration
+✔ Added Drill-Down Analysis for detailed insights.
+
+✔ Added Dynamic Top N Products filter for dynamic view using Parameter.
+
+✔ Added interactive filters for dynamic visual updates based on User Selection  for better data exploration.
 
 ---
 
